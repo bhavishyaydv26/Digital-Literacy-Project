@@ -2,12 +2,11 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Your Name *(replace with your name)* |
-| **Registration No.** | 23BCEXXXX *(replace with your reg no.)* |
-| **Branch** | B.Tech – Computer Science & Engineering |
-| **Year** | First Year (2024–25) |
+| **Name** | Bhavishya |
+| **Registration No.** | 25MIP10068 |
+| **Branch** | Integrated M.tech Computer Science in Computational and Data Science |
 | **Course** | CSE0001 – Digital Literacy |
-| **Institution** | VIT Bhopal University |
+
 
 ---
 
@@ -17,28 +16,7 @@ This repository is my **Digital Literacy Portfolio**, submitted as part of the C
 
 ---
 
-## 📁 Repository Structure
 
-```
-digital-literacy-project/
-├── README.md                          ← You are here
-├── report/
-│   └── Project_Report.docx            ← Full project report
-├── task-1-presentation/
-│   └── description.md                 ← Infographic description & tool info
-├── task-2-portfolio/
-│   └── reflection.md                  ← Portfolio reflection notes
-├── task-3-platforms/
-│   └── platforms-notes.md             ← Coding & collaboration notes
-├── task-4-email-etiquette/
-│   ├── email-drafts.md                ← Two professional email drafts
-│   └── social-media-checklist.md      ← Social media do's and don'ts
-└── task-5-cybercrime/
-    ├── casestudy.md                   ← UPI Fraud case study
-    └── prevention-checklist.md        ← Stay Safe Online checklist
-```
-
----
 
 ## 🗂️ Module Summaries
 
