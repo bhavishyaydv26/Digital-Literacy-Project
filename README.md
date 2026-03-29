@@ -44,8 +44,8 @@ Researched **UPI/Online Payment Fraud** — wrote a 200–250 word case study an
 | Platform | Link |
 |----------|------|
 | GitHub | [https://github.com/bhavishyaydv26|
-| LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| Kaggle | [kaggle.com/yourusername](https://kaggle.com/yourusername) |
+| LinkedIn | https://www.linkedin.com/in/bhavishya-yadav-911613382/ |
+| Kaggle | [https://www.kaggle.com/bhavishya0026 |
 
 ---
 
