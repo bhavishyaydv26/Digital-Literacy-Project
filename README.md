@@ -43,7 +43,7 @@ Researched **UPI/Online Payment Fraud** — wrote a 200–250 word case study an
 
 | Platform | Link |
 |----------|------|
-| GitHub | [github.com/yourusername](https://github.com/yourusername) |
+| GitHub | [https://github.com/bhavishyaydv26|
 | LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
 | Kaggle | [kaggle.com/yourusername](https://kaggle.com/yourusername) |
 
@@ -57,8 +57,8 @@ Researched **UPI/Online Payment Fraud** — wrote a 200–250 word case study an
 - HackerRank: https://hackerrank.com
 - Google Forms: https://forms.google.com
 - National Cyber Crime Portal: https://cybercrime.gov.in
-- Cyber Crime Helpline: **1930** (24×7)
+
 
 ---
 
-*Submitted for CSE0001 – Digital Literacy | VIT Bhopal University | 2024–25*
+*Submitted for CSE0001 – Digital Literacy | VIT Bhopal University *
