@@ -1,4 +1,4 @@
-# # 📚 Digital Literacy Portfolio — CSE0001
+# #  Digital Literacy Portfolio — CSE0001
 
 | Field | Details |
 |-------|---------|
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This repository is my **Digital Literacy Portfolio**, submitted as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have completed five tasks covering digital literacy awareness, professional online presence, coding platforms, email communication, and cybercrime awareness.
 
@@ -18,7 +18,7 @@ This repository is my **Digital Literacy Portfolio**, submitted as part of the C
 
 
 
-## 🗂️ Module Summaries
+##  Module Summaries
 
 ### Task 1 – Digital Literacy Infographic (Module 1)
 Created a one-page infographic using **Canva** covering: what digital literacy is, useful digital tools for students, safe internet practices, and professional online presence. The visual was designed to be shared with batchmates as a Student Digital Ambassador resource.
@@ -39,7 +39,7 @@ Researched **UPI/Online Payment Fraud** — wrote a 200–250 word case study an
 
 ---
 
-## 🔗 Profile Links
+##  Profile Links
 
 | Platform | Link |
 |----------|------|
@@ -49,7 +49,7 @@ Researched **UPI/Online Payment Fraud** — wrote a 200–250 word case study an
 
 ---
 
-## 📌 References
+##  References
 
 - Canva: https://canva.com
 - GitHub: https://github.com
